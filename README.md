@@ -30,6 +30,37 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 
 ## Projects
 
+
+Certainly! Here's an expanded version with more specific details about the `ApiApp` code:
+
+### Secure Transit: A JavaFX Application for Transport Security Updates in Leeds
+
+- Integrated External APIs:
+  - Integrated with the **TransportAPI** to retrieve bus route details in Leeds.
+    - Parameters included `app_id` and `app_key` for authentication.
+  - Utilized the **UK Police API** to fetch crime data in the vicinity of selected bus stops.
+    - Parameters: Latitude (`lat`), Longitude (`lng`), and Date (`date`).
+
+- Some JavaFX Components:
+  - **Tabs:** Utilized a `TabPane` to organize and display incident information.
+    - Implemented a set of `Tab` objects for each displayed incident, preventing unnecessary closability.
+  - **Dropdown Menus:**
+    - Created dropdown menus for selecting towns and bus stops using `ComboBox`.
+  - **Buttons:**
+    - Implemented various buttons for fetching crime data (`getResult`), navigating through incidents (`nextButton` and `backButton`), and managing entries (`startButton` and `endButton`).
+    - Disabled or enabled buttons based on specific conditions, ensuring a controlled user experience.
+    - Included options to start over (`startButton`) or jump to the end (`endButton`) for easier navigation.
+- **Threaded Background Tasks:**
+  - Implemented background tasks using threads to prevent UI freezing during long-running operations.
+  - Created a daemon thread (`threadSmasher`) to execute tasks asynchronously, ensuring a responsive user interface.
+
+- **Error Handling and User Feedback:**
+  - Provided error handling mechanisms to deal with exceptions during API requests.
+  - Displayed informative alerts to users in case of invalid input or API request failures.
+
+- **Progress Bar:**
+  - Incorporated a progress bar (`progressBar`) to visually indicate the status of background tasks, improving user feedback.
+
 ### Secure Transit: A JavaFX Application for Transport Security Updates in Leeds
 - Integrated TransportAPI for bus route details and the UK Police API for crime data.
 - User-friendly interface, navigation controls, and threaded background tasks optimize the user experience.
