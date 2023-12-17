@@ -82,24 +82,19 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
   - Utilized asynchronous tasks or threads to prevent the user interface from freezing during image updates.
 
 ### StringList Implementation Harmony: BaseStringList, ArrayStringList, and LinkedStringList
-- **Architecture and Functionality:**
-- *StringList Interface Design Excellence:*
-  - Architected a StringList interface with a well-defined structure, optimizing for efficiency in string manipulation across all implementations.
-  - Implemented versatile methods that cater to intricate string operations, promoting a user-friendly and powerful interface.
-- **Comprehensive Testing:**
-  - Executed comprehensive testing suites for each StringList implementation, scrutinizing functionality under various scenarios and edge cases.
-  - Validated the robustness and correctness of the implementations, instilling confidence in their reliability and consistent performance.
 - **Code Highlights:**
-  - Implemented OOP principles, including polymorphism and inheritance, to create a modular and extensible Connect Four Game.
-  - *BaseStringList:*
-  - Leveraged a foundational approach, emphasizing simplicity and efficiency in string handling.
+    - Implemented OOP principles, including polymorphism and inheritance, to create a modular and extensible Connect Four Game.
+- *BaseStringList:*
+    - Leveraged a foundational approach, emphasizing simplicity and efficiency in string handling.
 - *ArrayStringList:*
-  - Employed dynamic arrays for optimized memory utilization and efficient string manipulation.
-  - Implemented algorithms to handle resizing and dynamic array management seamlessly.
+    - Employed dynamic arrays for optimized memory utilization and efficient string manipulation.
+    - Implemented algorithms to handle resizing and dynamic array management seamlessly.
 - *LinkedStringList:*
-  - Utilized linked structures to enhance flexibility and accommodate variable-length string operations efficiently.
-  - Executed algorithms to navigate and manipulate strings within the linked structure effectively.
-
+    - Utilized linked structures to enhance flexibility and accommodate variable-length string operations efficiently.
+    - Executed algorithms to navigate and manipulate strings within the linked structure effectively.
+- **Comprehensive Testing:**
+    - Executed comprehensive testing suites for each StringList implementation, scrutinizing functionality under various scenarios and cases.
+      
 ### Connect Four Game
 - **Object-Oriented Programming (OOP) Principles:**
   - Implemented OOP principles, including polymorphism and inheritance, to create a modular and extensible Connect Four Game.
