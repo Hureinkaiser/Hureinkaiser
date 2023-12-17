@@ -69,6 +69,27 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
   - Utilized continuous Oracle Cloud deployment practices for a seamless and reliable deployment pipeline.
   - Automated testing and deployment processes ensure a consistent and efficient workflow for maintaining and updating the product management system.
 
+Certainly! Here's an expanded version with more specific details about the **JavaFX iTunes Gallery App**:
+
+### JavaFX iTunes Gallery App
+- **Media Type Support:**
+  - Designed to support diverse media types, ensuring flexibility for users to explore various content.
+  - Incorporated a dynamic interface that adapts to different media categories seamlessly.
+- **Exception Handling:**
+  - Implemented robust exception handling mechanisms to gracefully manage errors during API requests or unexpected issues.
+  - Provided informative error messages to guide users in case of network problems or other errors.
+- **Image Shuffling Functionality:**
+  - Included image shuffling functionality to enhance user engagement and provide a dynamic browsing experience.
+  - Users can shuffle through images randomly, adding an element of surprise and entertainment.
+- **iTunes Search API Integration:**
+  - Leveraged the iTunes Search API for retrieving media content based on user queries.
+  - Implemented networking capabilities to handle API requests, ensuring seamless communication between the app and the iTunes API.
+- **Custom Gallery Component:**
+  - Developed a custom gallery component to display retrieved media content in an organized and visually appealing manner.
+  - Incorporated features such as image thumbnails, titles, and additional details to enrich the user browsing experience.
+- **Dynamic Image Updates:**
+  - Enabled real-time updates of the image gallery based on user interactions, providing instant feedback.
+  - Utilized asynchronous tasks or threads to prevent the user interface from freezing during image updates.
 
 ### Connect Four Game
 
