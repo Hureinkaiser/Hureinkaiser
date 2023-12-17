@@ -82,15 +82,16 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
   - Utilized asynchronous tasks or threads to prevent the user interface from freezing during image updates.
 
 ### StringList Implementation Harmony: BaseStringList, ArrayStringList, and LinkedStringList
-**Architecture and Functionality:**
+- **Architecture and Functionality:**
 - *StringList Interface Design Excellence:*
   - Architected a StringList interface with a well-defined structure, optimizing for efficiency in string manipulation across all implementations.
   - Implemented versatile methods that cater to intricate string operations, promoting a user-friendly and powerful interface.
-**Comprehensive Testing:**
+- **Comprehensive Testing:**
   - Executed comprehensive testing suites for each StringList implementation, scrutinizing functionality under various scenarios and edge cases.
   - Validated the robustness and correctness of the implementations, instilling confidence in their reliability and consistent performance.
-**Code Highlights:**
-- *BaseStringList:*
+- **Code Highlights:**
+  - Implemented OOP principles, including polymorphism and inheritance, to create a modular and extensible Connect Four Game.
+  - *BaseStringList:*
   - Leveraged a foundational approach, emphasizing simplicity and efficiency in string handling.
 - *ArrayStringList:*
   - Employed dynamic arrays for optimized memory utilization and efficient string manipulation.
