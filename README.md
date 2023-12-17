@@ -23,13 +23,12 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 
 ## Projects
 ### Secure Transit: A JavaFX Application for Transport Security Updates in Leeds
-- Integrated External APIs:
+- **Integrated External APIs**:
   - Integrated with the **TransportAPI** to retrieve bus route details in Leeds.
     - Parameters included `app_id` and `app_key` for authentication.
   - Utilized the **UK Police API** to fetch crime data in the vicinity of selected bus stops.
     - Parameters: Latitude (`lat`), Longitude (`lng`), and Date (`date`).
-
-- Some JavaFX Components:
+- **Some JavaFX Components**:
   - **Tabs:** Utilized a `TabPane` to organize and display incident information.
     - Implemented a set of `Tab` objects for each displayed incident, preventing unnecessary closability.
   - **Dropdown Menus:**
@@ -81,6 +80,24 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 - **Dynamic Image Updates:**
   - Enabled real-time updates of the image gallery based on user interactions, providing instant feedback.
   - Utilized asynchronous tasks or threads to prevent the user interface from freezing during image updates.
+
+### StringList Implementation Harmony: BaseStringList, ArrayStringList, and LinkedStringList
+**Architecture and Functionality:**
+- *StringList Interface Design Excellence:*
+  - Architected a StringList interface with a well-defined structure, optimizing for efficiency in string manipulation across all implementations.
+  - Implemented versatile methods that cater to intricate string operations, promoting a user-friendly and powerful interface.
+**Comprehensive Testing:**
+  - Executed comprehensive testing suites for each StringList implementation, scrutinizing functionality under various scenarios and edge cases.
+  - Validated the robustness and correctness of the implementations, instilling confidence in their reliability and consistent performance.
+**Code Highlights:**
+- *BaseStringList:*
+  - Leveraged a foundational approach, emphasizing simplicity and efficiency in string handling.
+- *ArrayStringList:*
+  - Employed dynamic arrays for optimized memory utilization and efficient string manipulation.
+  - Implemented algorithms to handle resizing and dynamic array management seamlessly.
+- *LinkedStringList:*
+  - Utilized linked structures to enhance flexibility and accommodate variable-length string operations efficiently.
+  - Executed algorithms to navigate and manipulate strings within the linked structure effectively.
 
 ### Connect Four Game
 - **Object-Oriented Programming (OOP) Principles:**
