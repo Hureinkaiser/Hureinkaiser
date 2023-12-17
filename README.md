@@ -4,7 +4,7 @@ Atlanta, GA | (706) 572-6520 | Hurein.Kaiser@uga.edu | [LinkedIn](http://www.lin
 
 ## About Me
 
-I am Hurein B. Kaiser, a Computer Systems Engineering student at the University of Georgia with a focus on Informatics and Financial Technology (FinTech). I am passionate about technology, programming, and addressing societal challenges through innovation.
+I am Hurein B. Kaiser, a Computer Systems Engineering student at the University of Georgia with certificates(in-progess) in Informatics and Financial Technology (FinTech). 
 
 ## Education
 
