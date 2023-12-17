@@ -29,10 +29,6 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
   - Digital Electronics • Power Electronics • Circuit Design • Control Systems • Embedded Systems • CAD Tools • Fault Diagnosis & Troubleshooting • Lab Equipment Operation
 
 ## Projects
-
-
-Certainly! Here's an expanded version with more specific details about the `ApiApp` code:
-
 ### Secure Transit: A JavaFX Application for Transport Security Updates in Leeds
 
 - Integrated External APIs:
