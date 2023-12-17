@@ -28,9 +28,6 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 - **Electrical Engineering & Electronics Skills:**
   - Digital Electronics • Power Electronics • Circuit Design • Control Systems • Embedded Systems • CAD Tools • Fault Diagnosis & Troubleshooting • Lab Equipment Operation
 
-- **Spoken Languages:**
-  - Bengali & English - Native; Hindi & Urdu – Professional; Arabic – Elementary
-
 ## Projects
 
 ### Secure Transit: A JavaFX Application for Transport Security Updates in Leeds
