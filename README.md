@@ -36,13 +36,31 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 
 ### Product Management System: Informatics Project
 - Implemented a data entry tool with Flask, preventing users from proceeding without entering essential product details.
-- Deployed the flawless application on the Oracle Cloud, providing a DNS name for seamless access.
+- Created routes and views in Flask to render HTML templates, process form submissions, and manage the overall flow of the application.
+- Involved using both frontend (client-side) and backend (server-side) validation to ensure that users provide accurate and complete information.
+- Frontend validation is used to provide immediate feedback to users, while backend validation in Flask ensures the submitted data meets the required criteria.
+- Continuous integration and continuous Oracle Cloud deployment practices to automate testing and deployment processes, ensuring a reliable and consistent deployment pipeline.
 
 ### Connect Four Game
-- Applied Object-Oriented Programming (OOP) concepts, including polymorphism, inheritance.
-- Conducted thorough testing to identify and rectify potential bugs, ensuring the game's stability and reliability.
+- Applied OOP principles, leveraging features such as polymorphism and inheritance to design and structure the Connect Four Game.
+- Utilized polymorphism to create a flexible and extensible codebase, allowing for the development of different game components with a common interface.
+- Implemented inheritance to establish relationships between classes, promoting code reuse and maintaining a clear and organized class hierarchy.
+- Implemented the core game logic, including the rules and mechanics of Connect Four, to accurately simulate the classic game.
+- Ensured that the game adhered to standard Connect Four rules, allowing players to drop discs into columns and win by connecting four discs of the same color vertically, horizontally, or diagonally.
 
 ### Bringing Colors to Life: A Fun and Interactive Arduino LED Project
-- Accommodates visual impairments, providing an accessible and user-friendly experience.
-- Designed and built an Arduino LED project integrating logic gates, truth tables, Karnaugh maps (K-maps), and Finite State Machines (FSMs).
-
+- Developed a creative and interactive project centered around Arduino microcontrollers and LED technology.
+- Prioritized accessibility by designing the project to accommodate individuals with visual impairments.
+- Ensured that the project was inclusive and could be enjoyed by a diverse range of users, including those with varying levels of visual abilities.
+-Logic Gates and Truth Tables:
+Incorporated logic gates into the project to perform digital signal processing and control the behavior of the LEDs.
+Created truth tables to define the relationship between input signals and desired output states, facilitating the logical design of the project.
+Implemented logical operations such as AND, OR, and NOT gates to achieve specific lighting patterns or color combinations.
+- Karnaugh Maps (K-maps):
+Applied Karnaugh mapping techniques to simplify and optimize logical expressions.
+Used K-maps as a visual aid to identify patterns and redundancies in the truth tables, streamlining the design process.
+Optimized the logical design of the LED project to enhance efficiency and resource utilization.
+- Finite State Machines (FSMs):
+Implemented Finite State Machines to model the behavior of the LED project as it transitions between different states.
+Defined states, transitions, and actions to create a structured and modular design that can be easily extended or modified.
+Utilized FSMs to add a dynamic and interactive element to the project, allowing for diverse and engaging LED sequences.
