@@ -95,7 +95,7 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
     - Extends BaseLinkedUrgencyQueue and operates on elements that implement the Comparable interface.
     - Provides urgency ordering based on the natural order of elements.
     - Implements basic queue operations and supports conversions to arrays.
-- **Comprehensive Testing:**
+- *Comprehensive Testing:*
     - Testing class for validating the functionality of LinkedUrgencyQueue and CustomLinkedUrgencyQueue.
     - Tests include basic operations like enqueue, dequeue, and peek.
     - Demonstrates advanced functionality like filtering, clearing, and performing actions on dequeued items.
@@ -110,7 +110,7 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 - *LinkedStringList:*
     - Utilized linked structures to enhance flexibility and accommodate variable-length string operations efficiently.
     - Executed algorithms to navigate and manipulate strings within the linked structure effectively.
-- **Comprehensive Testing:**
+- *Comprehensive Testing:*
     - Executed comprehensive testing suites for each StringList implementation, scrutinizing functionality under various scenarios and cases.
       
 ### Connect Four Game
