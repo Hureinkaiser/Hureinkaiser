@@ -81,9 +81,27 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
   - Enabled real-time updates of the image gallery based on user interactions, providing instant feedback.
   - Utilized asynchronous tasks or threads to prevent the user interface from freezing during image updates.
 
-### StringList Implementation Harmony: BaseStringList, ArrayStringList, and LinkedStringList
-- **Code Highlights:**
-    - Implemented OOP principles, including polymorphism and inheritance, to create a modular and extensible Connect Four Game.
+### UrgencyQueue Implementation: BaseLinkedUrgencyQueue, CustomLinkedUrgencyQueue, and LinkedUrgencyQueue
+- *BaseLinkedUrgencyQueue:*
+    - Abstract class implementing the UrgencyQueue interface.
+    - Provides foundational structure for linked urgency queues with generic elements.
+    - Implements common queue operations: enqueue, dequeue, etc.- *CustomLinkedUrgencyQueue:*
+    - Employed dynamic arrays for optimized memory utilization and efficient string manipulation.
+- *CustomLinkedUrgencyQueue:*
+    - Extends BaseLinkedUrgencyQueue and customizes urgency orders using a provided comparator.
+    - Implements additional methods like dequeueMany and filters for customized functionality.
+    - Enqueues, dequeues, and filter elements based on the specified comparator.
+- *LinkedUrgencyQueue:*
+    - Extends BaseLinkedUrgencyQueue and operates on elements that implement the Comparable interface.
+    - Provides urgency ordering based on the natural order of elements.
+    - Implements basic queue operations and supports conversions to arrays.
+- **Comprehensive Testing:**
+    - Testing class for validating the functionality of LinkedUrgencyQueue and CustomLinkedUrgencyQueue.
+    - Tests include basic operations like enqueue, dequeue, and peek.
+    - Demonstrates advanced functionality like filtering, clearing, and performing actions on dequeued items.
+    - Offers a comprehensive suite of test cases to ensure the correctness of the urgency queue implementations.
+
+### StringList Implementation: BaseStringList, ArrayStringList, and LinkedStringList
 - *BaseStringList:*
     - Leveraged a foundational approach, emphasizing simplicity and efficiency in string handling.
 - *ArrayStringList:*
