@@ -49,11 +49,7 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 
 - **Progress Bar:**
   - Incorporated a progress bar (`progressBar`) to visually indicate the status of background tasks, improving user feedback.
-
-### Secure Transit: A JavaFX Application for Transport Security Updates in Leeds
-- Integrated TransportAPI for bus route details and the UK Police API for crime data.
-- User-friendly interface, navigation controls, and threaded background tasks optimize the user experience.
-
+  
 ### Product Management System: Informatics Project
 
 - Data Entry Tool with Flask:
