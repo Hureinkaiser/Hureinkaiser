@@ -35,18 +35,35 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 - User-friendly interface, navigation controls, and threaded background tasks optimize the user experience.
 
 ### Product Management System: Informatics Project
-- Implemented a data entry tool with Flask, preventing users from proceeding without entering essential product details.
-- Created routes and views in Flask to render HTML templates, process form submissions, and manage the overall flow of the application.
-- Involved using both frontend (client-side) and backend (server-side) validation to ensure that users provide accurate and complete information.
-- Frontend validation is used to provide immediate feedback to users, while backend validation in Flask ensures the submitted data meets the required criteria.
-- Continuous integration and continuous Oracle Cloud deployment practices to automate testing and deployment processes, ensuring a reliable and consistent deployment pipeline.
+
+- Data Entry Tool with Flask:
+  - Created a user-friendly interface for seamless product data entry.
+  - Implemented a data entry tool with Flask, preventing users from proceeding without entering essential product details.
+
+- Flask Routes and Views:
+  - Developed routes and views in Flask to render HTML templates, process form submissions, and manage the overall flow of the application.
+  - Ensured a smooth and intuitive navigation experience for users interacting with the product management system.
+
+- Validation Mechanisms:
+  - Employed both frontend (client-side) and backend (server-side) validation to enhance data accuracy.
+  - Frontend validation provides immediate feedback to users, enhancing the user experience.
+  - Backend validation in Flask guarantees that the submitted data meets the required criteria, maintaining data integrity.
+
+- Continuous Integration and Deployment:
+  - Utilized continuous Oracle Cloud deployment practices for a seamless and reliable deployment pipeline.
+  - Automated testing and deployment processes ensure a consistent and efficient workflow for maintaining and updating the product management system.
+
 
 ### Connect Four Game
-- Applied OOP principles, leveraging features such as polymorphism and inheritance to design and structure the Connect Four Game.
-- Utilized polymorphism to create a flexible and extensible codebase, allowing for the development of different game components with a common interface.
-- Implemented inheritance to establish relationships between classes, promoting code reuse and maintaining a clear and organized class hierarchy.
-- Implemented the core game logic, including the rules and mechanics of Connect Four, to accurately simulate the classic game.
-- Ensured that the game adhered to standard Connect Four rules, allowing players to drop discs into columns and win by connecting four discs of the same color vertically, horizontally, or diagonally.
+
+- Object-Oriented Programming (OOP) Principles:
+  - Applied OOP principles, leveraging features such as polymorphism and inheritance to design and structure the Connect Four Game.
+  - Utilized polymorphism to create a flexible and extensible codebase, allowing for the development of different game components with a common interface.
+  - Implemented inheritance to establish relationships between classes, promoting code reuse and maintaining a clear and organized class hierarchy.
+
+- Core Game Logic Implementation:
+  - Implemented the core game logic, including the rules and mechanics of Connect Four, to accurately simulate the classic game.
+  - Ensured that the game adhered to standard Connect Four rules, allowing players to drop discs into columns and win by connecting four discs of the same color vertically, horizontally, or diagonally.
 
 ### Bringing Colors to Life: A Fun and Interactive Arduino LED Project
 - Developed a creative and interactive project centered around Arduino microcontrollers and LED technology.
