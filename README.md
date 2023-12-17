@@ -23,7 +23,6 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 
 ## Projects
 ### Secure Transit: A JavaFX Application for Transport Security Updates in Leeds
-
 - Integrated External APIs:
   - Integrated with the **TransportAPI** to retrieve bus route details in Leeds.
     - Parameters included `app_id` and `app_key` for authentication.
@@ -49,25 +48,19 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
   - Incorporated a progress bar (`progressBar`) to visually indicate the status of background tasks, improving user feedback.
   
 ### Product Management System: Informatics Project
-
-- Data Entry Tool with Flask:
-  - Created a user-friendly interface for seamless product data entry.
-  - Implemented a data entry tool with Flask, preventing users from proceeding without entering essential product details.
-
-- Flask Routes and Views:
-  - Developed routes and views in Flask to render HTML templates, process form submissions, and manage the overall flow of the application.
+- **Data Entry Tool with Flask:**
+  - Created a user-friendly interface using Flask for seamless product data entry.
+  - Implemented a data entry tool that leverages Flask, preventing users from proceeding without entering essential product details.
+- **Flask Routes and Views:**
+  - Developed robust routes and views in Flask to render HTML templates, process form submissions, and manage the overall flow of the application.
   - Ensured a smooth and intuitive navigation experience for users interacting with the product management system.
-
-- Validation Mechanisms:
-  - Employed both frontend (client-side) and backend (server-side) validation to enhance data accuracy.
-  - Frontend validation provides immediate feedback to users, enhancing the user experience.
-  - Backend validation in Flask guarantees that the submitted data meets the required criteria, maintaining data integrity.
-
-- Continuous Integration and Deployment:
-  - Utilized continuous Oracle Cloud deployment practices for a seamless and reliable deployment pipeline.
-  - Automated testing and deployment processes ensure a consistent and efficient workflow for maintaining and updating the product management system.
-
-Certainly! Here's an expanded version with more specific details about the **JavaFX iTunes Gallery App**:
+- **Validation Mechanisms:**
+  - Employed comprehensive validation mechanisms, encompassing both frontend (client-side) and backend (server-side) validation to enhance data accuracy.
+    - Frontend validation provides immediate feedback to users, enhancing the user experience.
+    - Backend validation in Flask guarantees that the submitted data meets the required criteria, maintaining data integrity.
+- **Continuous Integration and Deployment:**
+  - Implemented continuous Oracle Cloud deployment practices to establish a seamless and reliable deployment pipeline.
+  - Automated testing and deployment processes ensure a consistent and efficient workflow, facilitating the maintenance and updates of the product management system.
 
 ### JavaFX iTunes Gallery App
 - **Media Type Support:**
@@ -90,30 +83,30 @@ Certainly! Here's an expanded version with more specific details about the **Jav
   - Utilized asynchronous tasks or threads to prevent the user interface from freezing during image updates.
 
 ### Connect Four Game
-
-- Object-Oriented Programming (OOP) Principles:
-  - Applied OOP principles, leveraging features such as polymorphism and inheritance to design and structure the Connect Four Game.
-  - Utilized polymorphism to create a flexible and extensible codebase, allowing for the development of different game components with a common interface.
-  - Implemented inheritance to establish relationships between classes, promoting code reuse and maintaining a clear and organized class hierarchy.
-
-- Core Game Logic Implementation:
-  - Implemented the core game logic, including the rules and mechanics of Connect Four, to accurately simulate the classic game.
-  - Ensured that the game adhered to standard Connect Four rules, allowing players to drop discs into columns and win by connecting four discs of the same color vertically, horizontally, or diagonally.
+- **Object-Oriented Programming (OOP) Principles:**
+  - Implemented OOP principles, including polymorphism and inheritance, to create a modular and extensible Connect Four Game.
+  - Leveraged polymorphism for a flexible codebase, enabling the development of diverse game components with a unified interface.
+  - Utilized inheritance to establish clear relationships between classes, fostering code reuse and maintaining an organized class hierarchy.
+- **Core Game Logic Enhancement:**
+  - Enhanced the core game logic, ensuring a faithful representation of Connect Four rules and mechanics.
+  - Enforced adherence to standard Connect Four rules, allowing players to strategically drop discs into columns and achieve victory by connecting four discs of the same color vertically, horizontally, or diagonally.
 
 ### Bringing Colors to Life: A Fun and Interactive Arduino LED Project
-- Developed a creative and interactive project centered around Arduino microcontrollers and LED technology.
-- Prioritized accessibility by designing the project to accommodate individuals with visual impairments.
-- Ensured that the project was inclusive and could be enjoyed by a diverse range of users, including those with varying levels of visual abilities.
- - Logic Gates and Truth Tables:
-    - Incorporated logic gates into the project to perform digital signal processing and control the behavior of the LEDs.
-    - Created truth tables to define the relationship between input signals and desired output states, facilitating the logical design of the project.
-    - Implemented logical operations such as AND, OR, and NOT gates to achieve specific lighting patterns or color combinations.
- - Karnaugh Maps (K-maps):
-    - Applied Karnaugh mapping techniques to simplify and optimize logical expressions.
-    - Used K-maps as a visual aid to identify patterns and redundancies in the truth tables, streamlining the design process.
-    - Optimized the logical design of the LED project to enhance efficiency and resource utilization.
-
-  - Finite State Machines (FSMs):
-    - Implemented Finite State Machines to model the behavior of the LED project as it transitions between different states.
-    - Defined states, transitions, and actions to create a structured and modular design that can be easily extended or modified.
-    - Utilized FSMs to add a dynamic and interactive element to the project, allowing for diverse and engaging LED sequences.
+- **Creative Arduino Microcontroller Project:**
+  - Developed an engaging and creative project centered around Arduino microcontrollers and LED technology.
+  - Crafted an interactive experience that captivates users and brings the world of LEDs to life.
+- **Accessibility Prioritization:**
+  - Prioritized accessibility by designing the project with features tailored to individuals with visual impairments.
+  - Ensured inclusivity, allowing a diverse user base to enjoy the project, accommodating varying levels of visual abilities.
+- **Logic Gates and Truth Tables Integration:**
+  - Integrated logic gates into the project for digital signal processing, providing precise control over LED behavior.
+  - Developed truth tables to establish the relationship between input signals and desired output states, facilitating a logically sound project design.
+  - Implemented AND, OR, and NOT gates to achieve specific lighting patterns and dynamic color combinations.
+- **Karnaugh Maps (K-maps) Optimization:**
+  - Applied Karnaugh mapping techniques to simplify and optimize logical expressions within the project.
+  - Utilized K-maps as a visual aid to identify patterns and eliminate redundancies in truth tables, streamlining the overall design process.
+  - Optimized the logical design of the LED project for enhanced efficiency and resource utilization.
+- **Finite State Machines (FSMs) for Dynamic Sequences:**
+  - Implemented Finite State Machines to model the behavior of the LED project as it smoothly transitions between different states.
+  - Defined states, transitions, and actions to create a structured and modular design, facilitating easy extension and modification.
+  - Leveraged FSMs to introduce a dynamic and interactive element, enabling diverse and engaging LED sequences.
