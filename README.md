@@ -10,15 +10,8 @@ I am Hurein B. Kaiser, a Computer Systems Engineering student at the University 
 
 - **B.S. Computer Systems Engineering**
   - College of Engineering, University of Georgia, Athens, GA
-  - Aug 2022 – May 2026
-
 - **Certificate in Informatics**
   - College of Engineering, University of Georgia, Athens, GA
-  - Aug 2022 – May 2026
-
-- **Certificate in Financial Technology (FinTech)**
-  - Terry College of Business, University of Georgia, Athens, GA
-  - Aug 2022 – May 2026
 
 ## Skills & Languages
 
