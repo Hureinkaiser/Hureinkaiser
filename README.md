@@ -1,8 +1,6 @@
 # Hurein B. Kaiser
 
-Atlanta, GA | (706) 572-6520 | Hurein.Kaiser@uga.edu | [LinkedIn](http://www.linkedin.com/in/hurein-kaiser) 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hurein-kaiser" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/hurein-kaiser?trk=profile-badge">Hurein Kaiser</a></div>
-              
+Atlanta, GA | (706) 572-6520 | Hurein.Kaiser@uga.edu | [LinkedIn](http://www.linkedin.com/in/hurein-kaiser)               
 
 ## About Me
 
