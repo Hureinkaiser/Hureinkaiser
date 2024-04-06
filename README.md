@@ -1,6 +1,4 @@
-# Hurein B. Kaiser
-
-Atlanta, GA | [LinkedIn](http://www.linkedin.com/in/hurein-kaiser)               
+# Hurein B. Kaiser | Atlanta, GA | [LinkedIn](http://www.linkedin.com/in/hurein-kaiser)               
 
 ## About Me
 
